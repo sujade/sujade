@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a handful of small projects and am actively learning more about web development!
+I'm currently working on a handful of small projects and am actively honing my web development skills!
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sujade/30-nites-of-code)  
