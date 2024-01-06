@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a handful of small projects and am actively honing my web development skills!
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@sujade/30-nites-of-code)  
-  ![@sujade #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sujade)
-
+I'm currently working on a handful of small projects and am actively honing my web development skills.
 <!--
 **sujade/sujade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
