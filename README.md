@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su Jade.</h1>
-<h3 align="center">I'm a challenge-driven developer living in Germany!</h3>
+<h3 align="center">I'm a challenge-driven developer looking to collaborate with you!</h3>
 
 - 🔭 I’m currently working on [thinkBig Project](https://github.com/thinkbig-project/thinkbig)
 
