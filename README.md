@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su Jade.</h1>
+<h2 align='center'><a href="https://sujade.github.io/mySite/">Click Here</a> to see my portfolio page and my recent projects!</h2>
 <h3 align="center">I'm a challenge-driven developer looking to collaborate with you!</h3>
 
 - 🔭 I’m currently working on [thinkBig Project](https://github.com/thinkbig-project/thinkbig)
