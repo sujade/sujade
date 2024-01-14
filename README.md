@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Su Jade.</h1>
 <h2 align='center'><a href="https://sujade.github.io/mySite/">Click Here</a> to see my portfolio page and my recent projects!</h2>
-<h3 align="center">I'm a challenge-driven developer looking to collaborate with you!</h3>
+<h3 align="center">I'm a challenge-driven developer and translator looking to collaborate with you!</h3>
 
 - 🔭 I’m currently working on [thinkBig Project](https://github.com/thinkbig-project/thinkbig)
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB and PostgreSQL**
 
-- 👯 I’m looking to collaborate on **any project that helps the community and serves a good purpose that I could integrate my skills into.**
+- 👯 I’m looking to collaborate on **any project that helps the community and serves a good purpose that I could integrate my skills.**
 
 - 💬 Ask me about **JavaScript and creative website design!**
 
