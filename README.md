@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [thinkBig Project](https://github.com/thinkbig-project/thinkbig)
 
-- 🌱 I’m currently learning **React, MongoDB and PostgreSQL**
+- 🌱 I’m currently learning **React.** After that, I'll lean into learning more about **Next.js and PostgreSQL** a bit more.
 
 - 👯 I’m looking to collaborate on **any project that helps the community and serves a good purpose that I could integrate my skills.**
 
