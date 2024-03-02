@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio and my side projects.**
 
-- 🌱 I’m currently learning **Typescript, Next.js and PostgreSQL**
+- 🌱 I’m currently learning **Next.js and PostgreSQL**
 
 - 👯 I’m looking to collaborate on **any project that helps the community and serves a good purpose that I could integrate my skills.**
 
