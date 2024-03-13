@@ -5,13 +5,13 @@
 <br>
 <hr/>
 
-Hey hey, good to see you here! ✨ I'm a self-taught developer passionate about creating good-looking and functional user experiences! I really enjoy problem solving and learning by doing/creating.
+Hey hey, good to see you here! ✨ I'm a self-taught developer passionate about creating good-looking and functional user experiences! I enjoy problem-solving and learning by doing/creating.
 
 When I'm working on coding, you'll find me focusing and working mainly on my projects or looking for a good one to collaborate with! Otherwise, I'll be learning new technologies actively. Nowadays I'm intensely working on my project **GrowthNotes**.
 
-When I'm not working on coding, I'll either be playing games, playing the guitar, working on my pedals and my sound, and watching series I've been missing out on.
+When I'm not working on coding, I'll either be playing games, playing the guitar, working on my pedals and my sound, or watching series I've been missing out on.
 
-Feel free reaching out if you have an idea that needs a creative frontend solution!
+Feel free to reach out if you have an idea that needs a creative solution!
 <hr/>
 
 <a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2A6F7&vCenter=true&multiline=false&random=false&width=500&height=50&lines=Technologies:" alt="Typing SVG" /></a>
