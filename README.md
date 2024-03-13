@@ -9,7 +9,7 @@ Hey hey, good to see you here! ✨ I'm a self-taught developer passionate about 
 
 When I'm working on coding, you'll find me focusing and working mainly on my projects or looking for a good one to collaborate with! Otherwise, I'll be learning new technologies actively. Nowadays I'm intensely working on my project **GrowthNotes**.
 
-When I'm not working on coding, I'll either be playing games, playing the guitar, working on my pedals and my sound, or watching series I've been missing out on.
+When I'm not working on coding, I'll either be taking a long walk, playing games, playing the guitar, working on my pedals and my sound, or watching series I've been missing out on.
 
 Feel free to reach out if you have an idea that needs a creative solution!
 <hr/>
