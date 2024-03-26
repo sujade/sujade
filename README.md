@@ -3,6 +3,8 @@
 <center><img src="7392521.jpg" alt="sky" width="50%"/></center>
 <center><i>Resting here too? Good choice!</i></center>
 <br>
+<a href="https://sujade.netlify.app/">Check My Portfolio!</a>
+<br>
 <hr/>
 
 Hey hey, good to see you here! ✨ I'm a self-taught developer passionate about creating good-looking and functional user experiences! I enjoy problem-solving and learning by doing/creating.
