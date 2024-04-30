@@ -1,6 +1,6 @@
 <a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2A6F7&vCenter=true&multiline=true&random=false&width=500&height=80&lines=Welcome+to+my+GitHub+profile!;I'm+Su+Jade+and+I'm+a+developer." alt="Typing SVG" /></a>
 
-<center><img src="7392521.jpg" alt="sky" width="50%"/></center>
+<center><img src="7392521.jpg" alt="sky" width="75%"/></center>
 <center><i>Resting here too? Good choice!</i></center>
 <br>
 <a href="https://sujade.netlify.app/">Check My Portfolio!</a>
