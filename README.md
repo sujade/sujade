@@ -39,9 +39,7 @@ Feel free to reach out if you have an idea, need a creative solution, or just wa
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2A6F7&vCenter=true&multiline=false&random=false&width=500&height=50&lines=Technologies:" alt="Typing SVG" />
 </a>
 
-### 🛠 Technologies & Tools
-
-#### Web Development:
+### Web Development
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -50,7 +48,7 @@ Feel free to reach out if you have an idea, need a creative solution, or just wa
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>  
 </div>
 
-#### JavaScript & Frameworks:
+### JavaScript & Frameworks
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
@@ -62,49 +60,45 @@ Feel free to reach out if you have an idea, need a creative solution, or just wa
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
 </div>
 
-#### Python:
+### Python
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-#### UI/UX Tools:
-<div align="left">
-  <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-  <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
-</div>
-
-#### Tools I Use:
+### Tools I Use
 <div align="left">
   <code><img width="35" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" title="VSCode"/></code>
   <code><img width="35" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+  <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+  <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 </div>
 
-#### Testing Frameworks:
+### Testing Frameworks
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
 </div>
 
-#### Databases:
+### Databases
 <div align="left">
   <code><img width="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 </div>
 
-#### Version Control:
+### Version Control
 <div align="left">
   <code><img width="35" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>
 </div>
 
-#### Game Development:
+### Game Development
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
 </div>
 
-#### Operating Systems:
+### Operating Systems
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="MacOS" title="MacOS"/></code>
@@ -112,7 +106,7 @@ Feel free to reach out if you have an idea, need a creative solution, or just wa
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="Fedora" title="Fedora"/></code>
 </div>
 
-#### Microcontrollers:
+### Microcontrollers
 <div align="left">
   <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberry Pi" title="Raspberry Pi"/></code>
 </div>
